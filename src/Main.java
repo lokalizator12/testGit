@@ -9,6 +9,7 @@ public class Main {
         System.out.println("fix C");
 
         System.out.println("Hello Worldss");
+        System.out.println("Lets go!");
 
     }
 }
